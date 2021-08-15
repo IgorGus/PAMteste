@@ -1,2 +1,3 @@
-# gamessla
-games
+# PAMteste
+
+Este repositório é apenas um teste de estudo durante o aprendizado da ferramenta, vou colocar uma ou mais aplicações mobile...
